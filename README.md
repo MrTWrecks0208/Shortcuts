@@ -6,6 +6,6 @@
 
 [![CloudCuts](https://i.postimg.cc/jqNmGkzR/Cloud-Cuts.png)](https://github.com/MrTWrecks0208/CloudCuts)
 
-[![ReleaseKit](https://i.postimg.cc/MGm823kD/imageedit-6-9868908497.png)](https://github.com/MrTWrecks0208/ReleaseKit)
+[![ReleaseKit](https://i.postimg.cc/hvfwvcjp/Release-Kit-Landscape.png)](https://github.com/MrTWrecks0208/ReleaseKit)
 
 [![Screwed](https://i.postimg.cc/ZRLYHKKT/screwed.png)](https://github.com/MrTWrecks0208/Screwed)
