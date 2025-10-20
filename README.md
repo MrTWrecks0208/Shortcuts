@@ -8,4 +8,4 @@
 
 [![ReleaseKit](https://i.postimg.cc/hvfwvcjp/Release-Kit-Landscape.png)](https://github.com/MrTWrecks0208/ReleaseKit)
 
-[![Screwed](https://i.postimg.cc/xTv9tffb/1.png)](https://github.com/MrTWrecks0208/Screwed)
+[![Screwed](https://i.postimg.cc/8cgq6vrm/1.png)](https://github.com/MrTWrecks0208/Screwed)
